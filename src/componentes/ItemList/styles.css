@@ -1,0 +1,15 @@
+.item-list {
+    margin: 1.5rem 0;
+}
+
+.item-list strong {
+    color: rgba(83, 155, 245, 1);
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.item-list p {
+    color: rgba(153, 153, 153, 1);
+    font-size: .75rem;
+    margin: 1.5rem 0;
+}
